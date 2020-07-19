@@ -2,9 +2,12 @@
 
 This is Danish A Software Developer by Profession.
 
-- 📫 How to reach me: mailtodanish@gmail.com
+📫 How to reach me: mailtodanish@gmail.com
 
-- 🔭 I’m currently working on python, djnago,...
+🔭 I’m currently working on python, djnago,...
+
+🌱 I am also expertize in Siebel and OpenUI.
+
 
 <!--
 **mailtodanish/mailtodanish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
