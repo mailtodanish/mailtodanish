@@ -8,7 +8,7 @@ A Software Developer by Profession.
 
 🔭 I’m currently working on python, djnago,...
 
-🌱 I am also expertize in Siebel and OpenUI.
+🌱 I am also expertize in Siebel CRM and OpenUI.
 
 
 <!--
