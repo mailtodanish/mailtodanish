@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-This is Danish A Software Developer by Profession.
+This is Danish 
+
+A Software Developer by Profession.
 
 📫 How to reach me: mailtodanish@gmail.com
 
