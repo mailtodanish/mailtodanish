@@ -21,10 +21,11 @@ A Software Developer by Profession.
 
 
 ## **My GitHub Stats**
-
-<img align="left" alt="RohanDas28's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mailtodanish&show_icons=true&hide_border=true" />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mailtodanish&layout=compact)](https://github.com/mailtodanish/github-readme-stats)
+
+<img align="right" alt="RohanDas28's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mailtodanish&show_icons=true&hide_border=true" />
+
+
 
 <!--
 **mailtodanish/mailtodanish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
