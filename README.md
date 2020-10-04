@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 This is Danish 
 
@@ -10,6 +11,18 @@ A Software Developer by Profession.
 
 🌱 I am also expertize in Siebel CRM and OpenUI.
 
+## My Skills :computer:
+
+ **Languages and Frameworks**
+ 
+  <img alt="Python" width="30px" src="https://simpleicons.org/icons/python.svg"/>   
+  <img alt="Python" width="30px" src="https://simpleicons.org/icons/flask.svg"/>  
+<img style="background-color: rgb(9, 46, 32);" alt="Python" width="30px" src="https://simpleicons.org/icons/django.svg" />
+
+
+## **My GitHub Stats**
+
+<img align="left" alt="RohanDas28's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mailtodanish&show_icons=true&hide_border=true" />
 
 <!--
 **mailtodanish/mailtodanish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
