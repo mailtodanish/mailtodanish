@@ -15,9 +15,9 @@ A Software Developer by Profession.
 
  **Languages and Frameworks**
  
-  <img alt="Python" width="30px" src="https://simpleicons.org/icons/python.svg"/>   
-  <img alt="Python" width="30px" src="https://simpleicons.org/icons/flask.svg"/>  
-<img style="background-color: rgb(9, 46, 32);" alt="Python" width="30px" src="https://simpleicons.org/icons/django.svg" />
+<img alt="Python" width="30px" src="https://simpleicons.org/icons/python.svg"/>  
+<img alt="Flask" width="30px" src="https://simpleicons.org/icons/flask.svg"/>  
+<img alt="Django" width="30px" src="https://simpleicons.org/icons/django.svg" />
 
 
 ## **My GitHub Stats**
