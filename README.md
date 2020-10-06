@@ -24,7 +24,9 @@ A Software Developer by Profession.
 
 <img align="left" alt="mailtodanish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mailtodanish&show_icons=true&hide_border=true&&count_private=true&show_icons=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mailtodanish&layout=compact)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mailtodanish&layout=compact)](https://github.com/mailtodanish/github-readme-stats)
+
 
 
 
