@@ -1,13 +1,11 @@
 ### Hi there 👋
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-This is Danish 
-
 A Software Developer by Profession.
 
 📫 How to reach me: mailtodanish@gmail.com
 
-🔭 I’m currently working on Flask API for react applictaion
+🔭 I’m currently working on Python Flask API for React front end.
 
 🌱 I am also expertize in Siebel CRM and OpenUI.
 
