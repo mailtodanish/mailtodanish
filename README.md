@@ -5,7 +5,7 @@ A Software Developer by Profession.
 
 📫 How to reach me: mailtodanish@gmail.com
 
-🔭 I’m currently working on Python Flask API for React front end.
+🔭 I’m currently working on Python Flask API/ Django API for React front end.
 
 🌱 I am also expertize in Siebel CRM and OpenUI.
 
