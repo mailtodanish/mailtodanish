@@ -7,7 +7,7 @@ A Software Developer by Profession.
 
 🔭 I’m currently working on Python Flask API/ Django API for React front end.
 
-🌱 I am also expertize in Siebel CRM and OpenUI.
+🌱 I am also expertized in Siebel CRM and OpenUI.
 
 ## My Skills :computer:
 
