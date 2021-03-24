@@ -1,13 +1,7 @@
 ### Hi there 👋
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+I am a software developer based out of Jaipur, India working on Software Architecture and API design. I also advice on cloud configurations, deployment or scalability issues.
 
-A Software Developer by Profession.
-
-📫 How to reach me: mailtodanish@gmail.com
-
-🔭 I’m currently working on Python Flask API/ Django API for React front end.
-
-🌱 I am also expertized in Siebel CRM and OpenUI.
+I provide assistance with Python, Flask , Django and security review of code. I also look into troubleshooting code that does not work as intended.
 
 ## My Skills :computer:
 
