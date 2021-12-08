@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a software developer based out of Jaipur, India working on Software Architecture and API design. I also advice on cloud configurations, deployment or scalability issues.
 
-I provide assistance with Python, Flask , Django and security review of code. I also look into troubleshooting code that does not work as intended.
+I provide assistance with Python, FastAPI, Flask , Django and security review of code. I also look into troubleshooting code that does not work as intended.
 
 ## My Skills :computer:
 
