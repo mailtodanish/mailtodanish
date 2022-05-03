@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+It’s fun to build things! Programming is rather like playing with Lego.
+
 I am a software developer working on Software Architecture and API design. 
 
 ## My Skills :computer:
