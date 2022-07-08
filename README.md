@@ -39,9 +39,9 @@ I am a software developer working on Software Architecture and API design.
 ## **Oracle Skills**
 
 <code><img height="50" src="https://img.shields.io/badge/Oracle-VBCS-orange"></code>
-<code><img height="50" src="https://img.shields.io/badge/Oracle-SIEBEL-blue"></code>
 <code><img height="50" src="https://img.shields.io/badge/Oracle-JET-orange"></code>
 <code><img height="50" src="https://img.shields.io/badge/Oracle-OIC-yellowgreen"></code>
+<code><img height="50" src="https://img.shields.io/badge/Oracle-SIEBEL-blue"></code>
 
 
 
