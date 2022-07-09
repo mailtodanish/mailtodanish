@@ -36,7 +36,7 @@ I am a software developer working on Software Architecture and API design.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img height="50" src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt280217a63b82a734/5bbdaacf63ed239936a7dd56/elastic-logo.svg"></code>
 
-## **Oracle Skills**
+## **My Oracle Skills**
 
 <code><img height="50" src="https://img.shields.io/badge/Oracle-VBCS-orange"></code>
 <code><img height="50" src="https://img.shields.io/badge/Oracle-JET-orange"></code>
