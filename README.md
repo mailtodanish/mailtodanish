@@ -44,6 +44,7 @@ https://mailtodanish.github.io/profile-page/
 <code><img height="50" src="https://img.shields.io/badge/Oracle-JET-orange"></code>
 <code><img height="50" src="https://img.shields.io/badge/Oracle-OIC-yellowgreen"></code>
 <code><img height="50" src="https://img.shields.io/badge/Oracle-SIEBEL-blue"></code>
+<code><img height="50" src="https://img.shields.io/badge/Oracle-OCM-yellowgreen"></code>
 
 
 
