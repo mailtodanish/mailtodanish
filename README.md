@@ -48,9 +48,7 @@ https://mailtodanish.github.io/profile-page/
 
 
 
-## **My GitHub Stats**
 
-<img align="left" alt="mailtodanish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mailtodanish&show_icons=true&hide_border=true&&count_private=true&show_icons=true&hide=stars,prs,issues,contribs" />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mailtodanish&layout=compact)](https://github.com/mailtodanish/github-readme-stats)
